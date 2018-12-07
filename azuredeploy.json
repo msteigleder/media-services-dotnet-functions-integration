@@ -46,7 +46,7 @@
     },
     "mediaServicesAccountAzureActiveDirectoryTenantDomain": {
       "type": "string",
-      "defaultValue": "ENTER YOUR TENANT DOMAIN, Example: microsoft.onmicrosoft.com",
+      "defaultValue": "microsoft.onmicrosoft.com",
       "metadata": {
         "description": "Azure Active Directory tenant domain of your media services account."
       }
